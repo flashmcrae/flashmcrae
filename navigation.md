@@ -6,6 +6,8 @@
 
 *   [Stein's Method](math/stein_method.md)
 *   [Levy Processes](math/levy_processes.md)
+*   [y](math/h.md)
+*   [ii](math/j.md)
 
 [ENGLISH STUDY]()
 
