@@ -2,19 +2,12 @@
 
 [CONTENTS](navigation.md)
 
-[MATHEMATICS]()
+[NOTES1]()
 
-*   [Stein's Method](math/stein_method.md)
-*   [Levy Processes](math/levy_processes.md)
-*   [y](math/h.md)
-*   [ii](math/j.md)
-
-[ENGLISH STUDY]()
-
-*   [New Concept English 4](english/nec4.md)
-*   [Short and Pithy Words](english/short_words.md)
-*   [Translations of Sentences](english/sentences_translations.md)
-*   [Grimm's Law](english/grimms_law.md)
-*   [Stress and Syllables](english/stress_and_syllables.md)
-*   [Phonetic Phonics](english/phonetic_phonics.md)
-*   [A Thought on English](english/a_thought_on_english.md)
+*   [lesson1-2]
+*   [lesson3-4]
+*   [lesson5-6]
+*   [lesson7-8]
+*   [lesson9-10]
+*   [lesson11-12]
+*   [lesson13-14]
