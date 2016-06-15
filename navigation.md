@@ -4,7 +4,7 @@
 
 [NOTES1]()
 
-*   [lesson1-2](math/dadada.md)
+*   [lesson1-2](english/lesson1-2.md)
 *   [lesson3-4]
 *   [lesson5-6]
 *   [lesson7-8]
