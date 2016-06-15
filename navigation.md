@@ -2,15 +2,15 @@
 
 [CONTENTS](navigation.md)
 
-[NOTES1]()
+[英文观止]()
 
-*   [lesson1-2](english/lesson1-2.md)
+*   [导读](english/lesson1-2.md)
 *   [lesson3-4]
 *   [lesson5-6]
 *   [lesson7-8]
 *   [lesson9-10]
 
-[NOTES2]()
+[自然拼读]()
 
 *   [lesson11-12]
 *   [lesson13-14]
@@ -18,7 +18,7 @@
 *   [lesson17-18]
 *   [lesson19-20]
 
-[NOTES3]()
+[格林法则 ]()
 
 *   [lesson21-22]
 *   [lesson23-24]
