@@ -5,7 +5,7 @@
 [英文观止]()
 
 *   [导读](english/lesson1-2.md)
-*   [lesson3-4]
+*   [lesson3-4](english/lesson3-4.md)
 *   [lesson5-6]
 *   [lesson7-8]
 *   [lesson9-10]
