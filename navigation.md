@@ -6,7 +6,7 @@
 
 *   [导读](english/lesson1-2.md)
 *   [lesson3-4](english/lesson3-4.md)
-*   [lesson5-6]
+*   [lesson5-6](english/lesson5-6.md)
 *   [lesson7-8]
 *   [lesson9-10]
 
