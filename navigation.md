@@ -28,7 +28,7 @@
 
 [人间词话]()
 
-*   [lesson31-32]
+*   [lesson31-32](english/人间词话1.md)
 *   [lesson33-34]
 *   [lesson35-36]
 *   [lesson37-38]
