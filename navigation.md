@@ -10,6 +10,7 @@
 *   [lesson7-8](english/lesson7-8.md)
 *   [lesson9-10](english/lesson9-10.md)
 *   [lesson11-12](english/lesson11-12.md)
+*   [lesson13-14](english/lesson13-14.md)
 
 [自然拼读]()
 
