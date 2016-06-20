@@ -9,22 +9,11 @@
 *   [lesson5-6](english/lesson5-6.md)
 *   [lesson7-8](english/lesson7-8.md)
 *   [lesson9-10](english/lesson9-10.md)
+*   [lesson11-12](english/lesson11-12.md)
 
 [自然拼读]()
 
-*   [lesson11-12]
-*   [lesson13-14]
-*   [lesson15-16]
-*   [lesson17-18]
-*   [lesson19-20]
-
 [格林法则 ]()
-
-*   [lesson21-22]
-*   [lesson23-24]
-*   [lesson25-26]
-*   [lesson27-28]
-*   [lesson29-30]
 
 [人间词话]()
 
