@@ -15,6 +15,7 @@
 *   [lesson17-18](english/lesson17-18.md)
 *   [lesson19-21](english/lesson19-21.md)
 *   [心得体会](english/extra.md)
+*   [色彩标注法](english/Colorful Equations with MathJax.md)
 
 [自然拼读]()
 
@@ -27,3 +28,37 @@
 *   [lesson35-36]
 *   [lesson37-38]
 *   [lesson39-40]
+
+&lt;script type="text/x-mathjax-config"&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\(","\)"] ],
+      processEscapes: true
+    }
+  });
+&lt;/script&gt;
+
+&lt;script type="text/x-mathjax-config"&gt;
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+&lt;/script&gt;
+
+&lt;script type="text/x-mathjax-config"&gt;
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i &lt; all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+&lt;/script&gt;
+
+&lt;script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;
+&lt;/script&gt;
+
+&lt;script type="text/x-mathjax-config"&gt;
+  MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }});
+&lt;/script&gt;
