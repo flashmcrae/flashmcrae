@@ -29,6 +29,9 @@
 *   [lesson37-38]
 *   [lesson39-40]
 
+[gimmick:theme](yeti)
+[gimmick: math]()
+
 &lt;script type="text/x-mathjax-config"&gt;
   MathJax.Hub.Config({
     tex2jax: {
