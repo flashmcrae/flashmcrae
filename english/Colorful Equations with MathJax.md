@@ -8,15 +8,6 @@ stuart riffle对傅里叶变换给出了一个很好的解释。在他的声明�
 
 多么精彩的陈述。我的第一个想法是，更多的方程式应该有这样优雅的解释来贴近读者的理解。我希望能够以这种风格来给出清晰的解释。
 
-$$\textcolor{Purple}{X}_\textcolor{Green}{k}
-=\textcolor{Magenta}{\frac{1}{N}\sum_{n=0}^{N-1}}
-\textcolor{Blue}{x_n}
-\textcolor{Red}{e}^
-{\textcolor{Red}{i}\textcolor{Orange}{2\pi} 
-\textcolor{Green}{k}
-\textcolor{Magenta}{\frac{n}{N}}
-}.$$
-
 **To find   ,    , and .**
 
 **Remark:**
