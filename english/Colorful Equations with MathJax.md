@@ -15,7 +15,7 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 \textcolor{Magenta}{\frac{n}{N}}
 }.$$
 
-为了发现&lt;/font&gt; &lt;font color=Green&gt;特定频率下的&lt;/font&gt;&lt;font color=Purple&gt;能量，&lt;/font&gt; &lt;font color=Green&gt;在该频率&lt;/font&gt; &lt;font color=Orange&gt;环绕一个圈&lt;/font&gt;,&lt;font color=Red&gt;旋转&lt;/font&gt;&lt;font color=Blue&gt;你的信号,&lt;/font&gt;并且&lt;font color=Magenta&gt;沿着该路径平均的分配一串点。
+为了发现&lt;/font&gt; &lt;font color=Green&gt;特定频率下的&lt;/font&gt;&lt;font color=Purple&gt;能量，&lt;/font&gt; &lt;font color=Green&gt;在该频率&lt;/font&gt; &lt;font color=Orange&gt;环绕一个圈&lt;/font&gt;,&lt;font color=Red&gt;旋转&lt;/font&gt;&lt;font color=Blue&gt;你的信号,&lt;/font&gt;并且&lt;font color=Magenta&gt;沿着该路径平均的分配一串点&lt;/font&gt;。
 
 **To find   ,    , and .**
 
