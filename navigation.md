@@ -19,7 +19,7 @@
 
 [句子翻译]()
 
-*   [句子翻译](english/transform.md)
+*   [句子翻译](english/每日翻译.md)
 
 [自然拼读]()
 
