@@ -2,10 +2,6 @@
 
 [CONTENTS](navigation.md)
 
-[句子翻译]()
-
-*   [句子翻译](english/transform.md)
-
 [英文观止]()
 
 *   [导读](english/lesson1-2.md)
@@ -21,6 +17,10 @@
 *   [心得体会](english/extra.md)
 *   [色彩标注法](english/Colorful Equations with MathJax.md)
 
+[句子翻译]()
+
+*   [句子翻译](english/transform.md)
+
 [自然拼读]()
 
 [格林法则 ]()
@@ -32,8 +32,6 @@
 *   [lesson35-36]
 *   [lesson37-38]
 *   [lesson39-40]
-
-
 
 [gimmick:theme](yeti)
 [gimmick: math]()
