@@ -32,36 +32,36 @@
 [gimmick:theme](yeti)
 [gimmick: math]()
 
-&lt;script type="text/x-mathjax-config"&gt;
+<script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
-      inlineMath: [ ['$','$'], ["\(","\)"] ],
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
       processEscapes: true
     }
   });
-&lt;/script&gt;
+</script>
 
-&lt;script type="text/x-mathjax-config"&gt;
+<script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
       }
     });
-&lt;/script&gt;
+</script>
 
-&lt;script type="text/x-mathjax-config"&gt;
+<script type="text/x-mathjax-config">
     MathJax.Hub.Queue(function() {
         var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i &lt; all.length; i += 1) {
+        for(i=0; i < all.length; i += 1) {
             all[i].SourceElement().parentNode.className += ' has-jax';
         }
     });
-&lt;/script&gt;
+</script>
 
-&lt;script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;
-&lt;/script&gt;
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
-&lt;script type="text/x-mathjax-config"&gt;
+<script type="text/x-mathjax-config">
   MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }});
-&lt;/script&gt;
+</script>
