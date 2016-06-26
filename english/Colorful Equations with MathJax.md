@@ -22,6 +22,9 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 }.$$
 **为了发现 </font> <font color=Green>特定频率下的</font><font color=Purple>能量，</font>  <font color=Green>在此频率下</font> <font color=Orange>围绕一个圆</font> ，<font color=Red>旋转</font> <font color=Blue>你的信号，</font>并且, <font color=Magenta>沿着该路径平均分配一束点</font>.**
 
+
+与机械化翻译公式的结合：在翻译比较长的句子的时候，我们首先要抓住主干，即主谓宾三个重要部分。然后我们将注意力集中到其他修饰成分，如果存在长定语或者长的状语，我们把他们进行整理，然后根据倒序的原则，一一进行翻译，最后与主谓宾结合起来，附加适当的连接词，使得语句通顺，那么我们的翻译就成功了。而为了能够详细清晰地划分句子的各个成分，我们就需要用到色彩标注法，我们可以用不同颜色来标记不同的句子成分，看起来条理清楚，方便我们进行修饰的排序和主干的分析。
+
 **Remark:**
 
 1. Html color setting  
