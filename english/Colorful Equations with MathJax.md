@@ -6,8 +6,6 @@ stuart riffle对傅里叶变换给出了一个很好的解释。在他的声明�
 
 多么精彩的陈述。我的第一个想法是，更多的方程式应该有这样优雅的解释来贴近读者的理解。我希望能够以这种风格来给出清晰的解释。
 
-为了发现特定频率下的能量，在该频率下，旋转你的信号围成一个圈，沿着该路径平均地做大量的点。
-
 $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 =\textcolor{Magenta}{\frac{1}{N}\sum_{n=0}^{N-1}}
 \textcolor{Blue}{x_n}
@@ -16,6 +14,8 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 \textcolor{Green}{k}
 \textcolor{Magenta}{\frac{n}{N}}
 }.$$
+
+为了发现&lt;/font&gt; &lt;font color=Green&gt;特定频率下的&lt;/font&gt;&lt;font color=Purple&gt;能量，&lt;/font&gt; &lt;font color=Green&gt;在该频率&lt;/font&gt; &lt;font color=Orange&gt;环绕一个圈&lt;/font&gt;,&lt;font color=Red&gt;旋转&lt;/font&gt;&lt;font color=Blue&gt;你的信号,&lt;/font&gt;并且&lt;font color=Magenta&gt;沿着该路径平均的分配一串点。
 
 **To find   ,    , and .**
 
