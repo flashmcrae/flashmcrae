@@ -23,6 +23,8 @@
 
 [自然拼读]()
 
+*   [自然拼读](english/phonetic_phonics.md)
+
 [格林法则 ]()
 
 [人间词话]()
